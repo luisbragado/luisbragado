@@ -17,6 +17,7 @@ Para más información relacionada a métodos de estudio te recomiendo revisar l
 
 Y alguna más...
 
-## 👇Contact:
-* luis.bragado.mx@gmail.com
-* https://www.linkedin.com/in/luis-bragado/
+## 👇Dónde encontrarme:
+[![Gmail Badge](https://img.shields.io/badge/-luis.bragado.mx@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luis.bragado.mx@gmail.com)](mailto:luis.bragado.mx@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-luis_bragado-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-bragado/)](https://www.linkedin.com/in/luis-bragado/)
+[![github Badge](https://img.shields.io/badge/-luisbragado-black?style=flat&logo=github&logoColor=white&link=https://github.com/luisbragado/)](https://github.com/luisbragado)
