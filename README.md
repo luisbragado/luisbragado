@@ -3,7 +3,7 @@ Hola, mi nombre es { Luis Bragado } 👋
 
 Soy ingeniero de software profesional con más de 10 años de experiencia. 
 
-El principal objetivo de mi perfil en GitHub es documentar ejemplos, cursos, proyectos para poder repasarlos (repetición espaciada) y así mitigar la curva del olvido.
+El principal objetivo de mi perfil en GitHub es documentar ejemplos, cursos, proyectos de software para poder repasarlos (repetición espaciada) y así mitigar la curva del olvido.
 
 Para más información relacionada a métodos de estudio te recomiendo revisar los videos de [Pablo Lomelí](https://www.youtube.com/c/PabloLomeli/about)
 
