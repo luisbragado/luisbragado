@@ -17,6 +17,6 @@ Para más información relacionada a métodos de estudio te recomiendo revisar l
 
 Y alguna más...
 
-👇## Contact:
+## 👇Contact:
 * luis.bragado.mx@gmail.com
 * https://www.linkedin.com/in/luis-bragado/
